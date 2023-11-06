@@ -1,0 +1,15 @@
+.body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    text-align: center;
+}
+
+.btn-body {
+    display: flex;
+    gap: 1rem;
+    padding-top: 1rem;
+    align-items: center;
+    justify-content: center;
+}

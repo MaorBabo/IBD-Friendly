@@ -1,0 +1,17 @@
+.recipe-img {
+    background-image: url('../images//recipeImg.png');
+    height: 100%;
+    width: 100%;
+}
+
+.food-predict-img {
+    background-image: url('../images//foodImg.png');
+    height: 100%;
+    width: 100%;
+}
+
+.best-coise-img {
+    background-image: url('../images//bestCoiseImg.png');
+    height: 100%;
+    width: 100%;
+}
